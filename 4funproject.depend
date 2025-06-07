@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1749270828 source:c:\users\alper\desktop\4funproject\main.c
+	<stdio.h>
+	<stdlib.h>
+

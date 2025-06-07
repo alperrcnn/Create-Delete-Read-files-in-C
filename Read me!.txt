@@ -1,0 +1,3 @@
+1) In this program, I wrote to a text file, deleted it, created it again, and read it using the program.
+2) I specified the statements with headlines. You can put them out of the comment to run. Don't try to run all at the same time. It won't work. 
+3) We used while loop so "fgets" statement can read all the lines. If u want program to read only 1 line you can get "fgets" statement out of the while loop condition and get rid of the while loop. 
